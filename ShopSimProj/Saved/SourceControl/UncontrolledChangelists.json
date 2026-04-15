@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/anyna/OneDrive/Desktop/UE/GE2-ShopSim/ShopSimProj/Content/Objects/BP_Cube.uasset",
+				"C:/Users/anyna/OneDrive/Desktop/UE/GE2-ShopSim/ShopSimProj/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/XI/169LS2DHX98K45XQ6STJBB.uasset",
+				"C:/Users/anyna/OneDrive/Desktop/UE/GE2-ShopSim/ShopSimProj/Content/BPI_Interract.uasset",
+				"C:/Users/anyna/OneDrive/Desktop/UE/GE2-ShopSim/ShopSimProj/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/anyna/OneDrive/Desktop/UE/GE2-ShopSim/ShopSimProj/Content/Characters/Mannequins/Anims/Unarmed/MM_Carrying.uasset",
+				"C:/Users/anyna/OneDrive/Desktop/UE/GE2-ShopSim/ShopSimProj/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"C:/Users/anyna/OneDrive/Desktop/UE/GE2-ShopSim/ShopSimProj/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/KK/4587NDST4Q3703CUOK3OH0.uasset"
+			]
+		}
+	]
+}
