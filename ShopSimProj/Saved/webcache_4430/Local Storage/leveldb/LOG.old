@@ -1,5 +1,6 @@
-2026/04/15-18:32:27.620 4710 Creating DB C:/Users/anyna/OneDrive/Desktop/UE/GE2-ShopSim/ShopSimProj/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/04/15-18:32:27.634 4710 Reusing MANIFEST C:/Users/anyna/OneDrive/Desktop/UE/GE2-ShopSim/ShopSimProj/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/15-18:47:25.300 4484 Level-0 table #5: started
-2026/04/15-18:47:25.305 4484 Level-0 table #5: 62113 bytes OK
-2026/04/15-18:47:25.308 4484 Delete type=0 #3
+2026/04/16-11:45:17.999 40a8 Reusing MANIFEST C:/Users/anyna/OneDrive/Desktop/UE/GE2-ShopSim/ShopSimProj/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/16-11:45:18.006 40a8 Recovering log #4
+2026/04/16-11:45:18.008 40a8 Reusing old log C:/Users/anyna/OneDrive/Desktop/UE/GE2-ShopSim/ShopSimProj/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2026/04/16-11:49:41.410 450 Level-0 table #8: started
+2026/04/16-11:49:41.414 450 Level-0 table #8: 67549 bytes OK
+2026/04/16-11:49:41.416 450 Delete type=0 #4
