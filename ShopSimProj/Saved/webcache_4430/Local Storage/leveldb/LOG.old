@@ -1,48 +1,14 @@
-2026/05/29-13:06:40.736 fd4 Reusing MANIFEST C:/Users/anyna/OneDrive/Desktop/UE/GE2-ShopSim/ShopSimProj/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/05/29-13:06:40.752 fd4 Recovering log #7
-2026/05/29-13:06:40.753 fd4 Reusing old log C:/Users/anyna/OneDrive/Desktop/UE/GE2-ShopSim/ShopSimProj/Saved/webcache_4430\Local Storage\leveldb/000007.log 
-2026/05/29-15:16:38.569 1b38 Level-0 table #11: started
-2026/05/29-15:16:38.573 1b38 Level-0 table #11: 68686 bytes OK
-2026/05/29-15:16:38.576 1b38 Delete type=0 #7
-2026/05/29-15:20:35.114 476c Level-0 table #13: started
-2026/05/29-15:20:35.117 476c Level-0 table #13: 76326 bytes OK
-2026/05/29-15:20:35.119 476c Delete type=0 #10
-2026/05/29-15:21:00.840 1b38 Level-0 table #15: started
-2026/05/29-15:21:00.843 1b38 Level-0 table #15: 61970 bytes OK
-2026/05/29-15:21:00.845 1b38 Delete type=0 #12
-2026/05/29-15:21:16.437 476c Level-0 table #17: started
-2026/05/29-15:21:16.441 476c Level-0 table #17: 67538 bytes OK
-2026/05/29-15:21:16.443 476c Delete type=0 #14
-2026/05/29-15:21:16.445 476c Compacting 4@0 + 1@1 files
-2026/05/29-15:21:16.448 476c Generated table #18@0: 3 keys, 23068 bytes
-2026/05/29-15:21:16.448 476c Compacted 4@0 + 1@1 files => 23068 bytes
-2026/05/29-15:21:16.449 476c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/29-15:21:16.450 476c Delete type=2 #8
-2026/05/29-15:21:16.450 476c Delete type=2 #11
-2026/05/29-15:21:16.450 476c Delete type=2 #13
-2026/05/29-15:21:16.450 476c Delete type=2 #15
-2026/05/29-15:21:16.450 476c Delete type=2 #17
-2026/05/29-15:21:48.607 1b38 Level-0 table #20: started
-2026/05/29-15:21:48.611 1b38 Level-0 table #20: 71381 bytes OK
-2026/05/29-15:21:48.615 1b38 Delete type=0 #16
-2026/05/29-15:26:00.934 43f0 Level-0 table #22: started
-2026/05/29-15:26:00.937 43f0 Level-0 table #22: 74310 bytes OK
-2026/05/29-15:26:00.939 43f0 Delete type=0 #19
-2026/05/29-15:26:31.527 1b38 Level-0 table #24: started
-2026/05/29-15:26:31.531 1b38 Level-0 table #24: 78118 bytes OK
-2026/05/29-15:26:31.532 1b38 Delete type=0 #21
-2026/05/29-15:26:54.257 43f0 Level-0 table #26: started
-2026/05/29-15:26:54.261 43f0 Level-0 table #26: 81606 bytes OK
-2026/05/29-15:26:54.263 43f0 Delete type=0 #23
-2026/05/29-15:26:54.263 43f0 Compacting 4@0 + 1@1 files
-2026/05/29-15:26:54.268 43f0 Generated table #27@0: 3 keys, 27776 bytes
-2026/05/29-15:26:54.268 43f0 Compacted 4@0 + 1@1 files => 27776 bytes
-2026/05/29-15:26:54.269 43f0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/29-15:26:54.270 43f0 Delete type=2 #18
-2026/05/29-15:26:54.270 43f0 Delete type=2 #20
-2026/05/29-15:26:54.270 43f0 Delete type=2 #22
-2026/05/29-15:26:54.270 43f0 Delete type=2 #24
-2026/05/29-15:26:54.270 43f0 Delete type=2 #26
-2026/05/29-15:27:45.215 1b38 Level-0 table #29: started
-2026/05/29-15:27:45.219 1b38 Level-0 table #29: 86086 bytes OK
-2026/05/29-15:27:45.221 1b38 Delete type=0 #25
+2026/06/11-11:19:59.007 24f04 Creating DB D:/Epic Games/GE2-ShopSim/ShopSimProj/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/06/11-11:19:59.040 24f04 Reusing MANIFEST D:/Epic Games/GE2-ShopSim/ShopSimProj/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/11-14:00:01.491 27008 Level-0 table #5: started
+2026/06/11-14:00:01.498 27008 Level-0 table #5: 61664 bytes OK
+2026/06/11-14:00:01.502 27008 Delete type=0 #3
+2026/06/11-14:04:48.358 24468 Level-0 table #7: started
+2026/06/11-14:04:48.406 24468 Level-0 table #7: 64599 bytes OK
+2026/06/11-14:04:48.408 24468 Delete type=0 #4
+2026/06/11-14:05:52.694 27008 Level-0 table #9: started
+2026/06/11-14:05:52.743 27008 Level-0 table #9: 73158 bytes OK
+2026/06/11-14:05:52.746 27008 Delete type=0 #6
+2026/06/11-14:07:38.474 2778c Level-0 table #11: started
+2026/06/11-14:07:38.478 2778c Level-0 table #11: 62884 bytes OK
+2026/06/11-14:07:38.480 2778c Delete type=0 #8
